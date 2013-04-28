@@ -1,0 +1,13 @@
+version = '1.4.1'
+array_module = 'numpy'
+array_module_version = '1.6.0'
+python_version = '2.7.1'
+formats = {}
+formats['hdfeos5'] = 1
+formats['netcdf4'] = 1
+formats['hdf4'] = 1
+formats['hdf5'] = 1
+formats['shapefile'] = 1
+formats['grib2'] = 1
+formats['hdfeos'] = 1
+formats['opendap'] = 1

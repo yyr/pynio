@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: PyNIO
+Version: 1.4.1
+Summary: Multi-format data I/O package
+Home-page: http://www.pyngl.ucar.edu/Nio.shtml
+Author: David I. Brown
+Author-email: dbrown@ucar.edu
+License: UNKNOWN
+Description: 
+               Enables NetCDF-like access for NetCDF (rw), HDF (rw), HDF-EOS2 (r), HDF-EOS5, GRIB (r), and CCM (r) data files
+               
+Platform: UNKNOWN
